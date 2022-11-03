@@ -116,6 +116,8 @@ void deleteend()
 
 }
 
+// Main function
+
 void main()
 {
     int ph,choice,n,i;
@@ -123,6 +125,7 @@ void main()
     temp=temp1=0;
     while(choice)
     {
+        // while
         printf("1.create\n 2.insertbeg\n 3.insertend\n 4.display\n 5.dletebeg\n 6.dleteend\n 7.exit\n");
         printf("enter yoyr choice\n");
         scanf("%d",choice);

@@ -2,7 +2,7 @@
 
 #include<ctype.h>
 #define max 50
-char s[max];
+char s[max]; // hi
 int top=-1;
 void push(char elem)
 
