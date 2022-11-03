@@ -119,7 +119,7 @@ void deleteend()
 // Main function
 
 void main()
-{
+{ // boobies
     int ph,choice,n,i;
     h=0;
     temp=temp1=0;

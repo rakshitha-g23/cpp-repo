@@ -8,7 +8,7 @@ void push(char elem)
 
 {
 s[++top]=elem;}
-char pop(){
+char pop(){// ass
 return (s[top--]);}
 int pr(char elem)
 {
